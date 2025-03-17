@@ -1,7 +1,7 @@
 fun main() {
-    val burger = 3
+    val burgers = 3
     var customers = 5
 
-    burger = 2 // cannot be reassigned
+    burgers = 2 // cannot be reassigned
     customers = 3 // can be reassigned
 }
